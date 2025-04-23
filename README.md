@@ -1,2 +1,2 @@
-# pentesting-lab
+# cybersec-labs
 Prácticas y auditorías de seguridad
